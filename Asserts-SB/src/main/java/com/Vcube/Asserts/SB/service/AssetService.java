@@ -15,7 +15,7 @@ import com.Vcube.Asserts.SB.repository.AllocationRepository;
 import com.Vcube.Asserts.SB.repository.AssetRepository;
 import com.Vcube.Asserts.SB.repository.EmployeeRepository;
 
-@RestController
+@Service
 @RequestMapping("assert")
 public class AssetService {
 	
